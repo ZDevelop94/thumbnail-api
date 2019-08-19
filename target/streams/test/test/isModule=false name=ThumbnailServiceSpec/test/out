@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mThumbnailServiceSpec[0m
+[0m[[0m[0minfo[0m] [0m[0mThumbnailService should[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return a video's metadata[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return an invalid Video[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification ThumbnailServiceSpec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 1 second, 489 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 3 expectations, 0 failure, 0 error[0m[0m
